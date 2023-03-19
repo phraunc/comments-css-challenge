@@ -1,5 +1,7 @@
-#commentOne{
+.commentPlacement{
+    border-radius: 50px;
+}
 
-    background-color: lightgrey;
-
+.imgOne{
+    float:initial;
 }
